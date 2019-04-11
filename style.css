@@ -1,0 +1,85 @@
+body {
+background-color: #D3FFDC;
+margin: 0;
+border: 0;
+padding:0;
+}
+
+header {
+padding: 25px;
+margin: 25px;
+border: 3px dotted black; 
+}
+
+h1, h3 {
+	text-align: center;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+p, li, input, textarea {
+  font-size: 20px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+p {
+	line-height: 1.5em;
+}
+
+.what_i_love{
+	margin: 0 auto;
+}
+
+.quote_about_travel{
+    text-align: center;
+    height: 100px;
+}
+
+.quote_about_travel p {
+	padding: 35px ;
+	margin: 25px;
+    border: 3px dotted black; 
+}
+
+.why_I_travel{
+	padding: 25px;
+	margin: 25px;
+	margin-top: 65px;
+    border: 3px dotted black; 
+}
+
+.question_the_user {
+	padding: 25px;
+	margin: 25px;
+    border: 3px dotted black; 
+}
+
+
+input, textarea{
+	display: block;
+    margin: 5px;
+}
+
+
+img {
+	width: 500px;
+	height: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#poznan {
+	transform: rotate(180deg) !important;
+}
+
+footer {
+	padding:15px;
+	margin: 25px;
+    border: 3px dotted black; 
+}
+
+footer p {
+	text-align: center;
+}
